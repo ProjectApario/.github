@@ -329,4 +329,42 @@ As you can tell, I am not about the money money money and I build without expect
 
 This summer, a lot of things can happen for Project Apario that prepares it for a massive 2027 re-launch as PhoenixVault, and ultimately, I am inviting you to begin participating and sowing seeds back into the project. It's time that this goes mainstream now that the foundation has been set and the product has been battle tested for **many years now in production** with _more stability than Claude_ and _its just been me for years doing this by myself._ When the [$APARIO DAO NFTs](https://xrp.cafe/collection/apario-dao) sell, that will provide me some capital to legitimately work with in order to reboot the decentralized crypto-backed idea which is the logical next step that **The PhoenixVault** _must take_. This summer is the 250 year birthday celebration of America and the **Phoenix** rises from [the ashes](https://github.com/andreimerlescu/andreimerlescu/blob/main/DISABILITY.md).
 
+### The $APARIO DAO
+
+A **DAO** is a **D**ecentralized **A**utonomous **O**rganization that give [NFT holders](https://xrp.cafe/collection/apario-dao) voting rights on various things relating to the [reader](https://github.com/ProjectApario/reader) and the [writer](https://github.com/ProjectApario/writer)'s operational direction that gets contributed _by me_. Effectively, the **NFTs** are your **gift** to Project Apario so that I can build XRP integration into the two components and have enough XRP at my disposal to ensure that liquidity pools are maintained for long term utility - goverened by the tooling of the DAO itself. 
+
+Each of the NFTs are 1776 XRP each. The _price may only go up_ and its a _window of opportunity_ that _I am extending to those likeminded who have faith to serve others without expecting in return_ and that _this seed sown_ **will be put to good use** because XRP is _programmable money_ that can _unlock_ the power of what I envisioned for **Project Apario** in the first place. _Ten years ago when I was doing the **Michael Trimm Show** I was asking for seeds to be sown into me so that I could make the little gophers go._ Well, here I am, ten years later, having learned how to make the _little gophers go_ made 10x with an AI enhanced workstation given my ability to problem solve and reason against it in a non-judgemental manner **offline**. Now, when it comes to making this product crypto ready and capable, I'd need a lot of support for long term stability in the project.
+
+When these NFTs are sold, they can be re-sold and traded. Possession of the NFT grants access to the tooling that is built around the NFT collection itself for the [$APARIO DAO NFTs](https://xrp.cafe/collection/apario-dao). There are **46 Available** as of April 29th 2026. Out of the 81,696 XRP that will be raised when all 46 NFTs have been acquired, that balance will then be divided out accordingly: 
+
+| Amount | &nbsp; |
+|--------|--------|
+| 1776 XRP | &rarr; [projectapario](https://bithomp.com/en/account/projectapario) |
+| &nbsp; | ∟ 369 XRP &rarr; [majestic](https://bithomp.com/en/account/majestic) |
+| &nbsp; | ∟ 1,407 XRP &rarr; [APARIO/XRP AMM]([https://bithomp.com/en/account/projectapario](https://xpmarket.com/amm/pool/APARIO-rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2/XRP)) **Single-Asset Deposit** | 
+
+When the NFT is transfered, it has 50% royalty attached to it. If you sell it for what you bought it for, then you'll receive 888 XRP and then 888 XRP will be sent to [projectapario](https://bithomp.com/en/account/projectapario). In the event that this does occur, it'll be between 888 XRP and anything acceptably higher that somebody is willing to pay less 50% broken down in the following manner:
+
+| Amount | &nbsp; |
+|--------|--------|
+| 888 XRP | &rarr; [projectapario](https://bithomp.com/en/account/projectapario) |
+| &nbsp; | ∟ 369 XRP &rarr; [majestic](https://bithomp.com/en/account/majestic) |
+| &nbsp; | ∟ 519+ XRP &rarr; [APARIO/XRP AMM]([https://bithomp.com/en/account/projectapario](https://xpmarket.com/amm/pool/APARIO-rU16Gt85z6ZM84vTgb7D82QueJ26HvhTz2/XRP)) **Single-Asset Deposit** |
+
+Given the volume of **46 NFTs** there should be roughly 64,722 XRP deposited into the $APARIO liquidity pool by virtue of this announcement on Project Apario's official GitHub profile. 
+
+### Crypto Connected Reader Instance
+
+The DAO is going to vote on a rate to charge you to mint an NFT for your wallet that will give you permission to run a decentralized instance that permits your [reader](https://github.com/ProjectApario/reader) to use a **production xrp wallet** _by the reader itself_ (in a secure manner) that allows a pool of $APARIO tokens to be rewarded through the interface to users who use _your instance_. It's a self funding mechanism of getting eyes on your **collection of OSINT** that you **believe will improve and benefit society by revealing it in an easy to use manner.** It allows you to put 12,000,000 $APARIO tokens in a wallet that has 4 XRP in it, then you have enough transaction bandwidth to serve tens of thousands of authentic requests because _you read the source code and realize that I built a WAF in the reader for you to leverage_, that you can reward those over your projected runtime of the project. If you want to be online for 12 months to start, then thats 1,000,000 $APARIO per month that you can reward out. _That's the idea of the decentralized crypto model._ 
+
+### Conclusions
+
+Project Apario is a part time volunteer effort by [andreimerlescu](https://github.com/andreimerlescu) and while much of his personality has shaped the project and his disability has negatively effectived his compassion for others' pain, his own ability to put his own disability to the side and focus exclusively on the needs of others _for years relentlessly_ until each of the _four components_ were built out and the _idea was clear enough_ to transcript to _you_ in a manner that would make _you_ want to join the movement by hooking up one of those NFTs and sowing where you want to reap, knowing that the NFT isn't access to Andrei. It's sowing seeds into the idea that Andrei started and that he gave to the world. Who knows, the _Michael Trimm Show_ may make a return, and truthfully telling you, the [reader](https://github.com/ProjectApario/reader) and [writer](https://github.com/ProjectApario/writer)_ have some work to do for administrative management of it that isn't strictly config driven. Right now its tedious to have an active data set and a lot of opportunity exists to expand on Project Apario and make it into something that is truly revolutionary for the world to behold. 
+
+When I was a young child and I figured out why the world was calling me **Michael** and I came to terms with it - for then until I said **enough is enough** - I saw myself using this invention becuase I saw the world that we were living in was changing because it had advanced technology and ancient bad faith actors that used technology to control and harm rather than enlighten and enhance. I seek and sought in my work and in my works to enlighten inspire and enhance that which makes you you and that which makes you special to the two of us. Software unites us. My code works on many systems because **Go is unversial** and yes, I have run the [reader](https://github.com/ProjectApario/reader) on Windows. Even though its not supported and I don't formally announce it aside from this easter egg. If you want to make it happy with Microsoft, then by means have at, these works at **GPL-3** and **AGPL-3**. 
+
+https://ko-fi.com/projectapario
+https://github.com/andreimerlescu 
+
+
 
