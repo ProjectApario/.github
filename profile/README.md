@@ -21,8 +21,6 @@ There are **four (4)** components to the **PhoenixVault** that are:
 
 ### The Writer 
 
-This component compiles the _Apario Database_ that the [reader](https://github.com/ProjectApario/reader) consumes and displays an interactive web application that is self contained with Go powered SSL capabilities. To compile this database, you'll need a **Collection of Records** in the form of PDF files that you want to gether into a single _collection of data_ that will have **each component** part of it. 
-
 ```bash
 mkdir -p ~/work/projectapario
 cd ~/work/projectapario
@@ -30,7 +28,7 @@ git clone git@github.com:ProjectApario/writer.git
 cd writer
 ```
 
-The [writer](https://github.com/ProjectApario/writer) component is 3344 lines of code across 15 `.go` files. The [install.sh](https://github.com/ProjectApario/writer/blob/main/install.sh) script loads the dependencies onto your system so you can compile your own _Apario Database_. 
+Then install it: 
 
 ```bash
 chmod +x install.sh && sudo ./install.sh
@@ -109,8 +107,6 @@ Then, the application will begin streaming detailed logging information into the
 
 ### The Reader
 
-This **component** is responsible for rendering an **interactive web application** that is _embedded into the GPL-3 open source project_ so the **PhoenixVault** can be launched in an _appliance mode_ with zero external runtime dependencies needed for operating it. Before, when I had built the **SaaS** model with _DJ Nicke_, the OPEX for running the dozen dependencies was over $7,000 per month at the scale of 500 online users every hour. This **GPL-3 Go Rewrite** is _completely free_ and can run on [OVH](https://us.ovhcloud.com) for as low as $33/month for up to 10,000 pages of records that your _Apario Database_ contains that you used the `writer` to compile. To get started using that compiled database, run this:
-
 ```bash
 cd ~/work/projectapario
 git clone git@github.com:ProjectApario/reader.git
@@ -157,17 +153,3 @@ go build -o reader .
 chmod +x reader
 ./reader -config ~/apario/teslafiles.info/config/reader.yml
 ```
-
-Then the application will _compile its index_ and this can take roughly **3 to 6 seconds per page** depending on the size of the _Apario Database_. This will compile a runtime index that will make restarts of the appliance faster. The index is invalidated when the checksum of the database mismatches the cached index. When new files are added, the database index is automatically refreshed on next boot.
-
-The binary includes a **bunch of functionality** for things like **CORS** and **Rate Limiting** and **Search Preferences** and many _many_ other functionalities. To best understand it, the first value after the `config.New<Type>(` below, in the Go code, from the reader's [config.go](https://github.com/ProjectApario/reader/blob/main/config.go) file. In your `reader.yml` file, each quoted value, like `"product-name", ` becomes in your YML file `product-name: ` where the value follows the space after the colon. This applies to each of these properties and what you can do with the [reader](https://github.com/ProjectApario/reader) is extend it beyond its default functionality that provides **out of the box majestic OSINT research &amp; search capabilities powered by [gematria](https://github.com/andreimerlescu/gematria) and [texteee](https://github.com/andreimerlescu/texteee).
-
-Now, why is this application valuable in 2026? It's valuable because limiting a data set to 10 or 100 or even 1,000 documents and allowing the **coincidences** of what _Gematria_ actually _IS_ become _realized_ in _some form or another_ through the virtue of using the functionality it offers. On much larger data sets, its easy to get lost in the nose and see how the notion of Gematria doesn't offer much more than StumbleInto; but its still another form of StumbleInto that is isolated to much larger data sets such as the JFK Files. Both use cases, this application trio provides a novel solution for search that is **free and open source** _as promised_ and _as delivered_ and _as needed since **The Michael Trimm Show** in 2016 when I was a strong _Bernie Bro_ breaking down the numbers of how the old guy still had a chance against _the machine_. Given that we're on the brink of disclosure, knowing how this product was built can help anybody who wants to improve this product by using AI to enhance it by simply knowing how its deployed, how its run, and how it can be enhanced.
-
-### Search &amp; Merkel
-
-Both of these components are not published as part of the [reader](https://github.com/ProjectApario/reader) | [writer](https://github.com/ProjectApario/writer) components of Project Apario, but they are being developed and worked on to provide an _out of memory index_ of the [reader](https://github.com/ProjectApario/reader) that has less runtime requirements associated with its larger footprint caused by the textee/gematria _inefficiencies_. I can't describe them anything other than _that_, so _it is what it is and I'll just let it be._ 
-
-My goal with the [search](https://github.com/ProjectApario/search) component was to reduce the memory footprint of the [reader](https://github.com/ProjectApario/reader) by offering an index of the data. For 100K pages, the results were kind of slow on my fast hardware. I'm on a 256GB Mac Pro 28 Core both Intel and Silicon M3 Ultra capable of AI and virtualized workloads. That's what GitHub user 91,485 has in 2026. But, do we need the **search** or the **merkel** tools at all? If the _reader_ and _writer_ are not heavily used when they have been **available for years for free** in a manner that I believed the _public wanted_ - **me out of the conversation about what I invented** but I learned that instead, if you need it, you'll use it. I built it to last for a long time. It's a self-contained appliance that has been forged over a 21+ year professional career. If these two components are needed, they'll be integrated into the **reader** and **writer** components. 
-
-When [merkel](https://github.com/ProjectApario/merkel) is needed is when the [$APARIO DAO NFTs](https://xrp.cafe/collection/apario-dao) have been acquired and the [reader](https://github.com/ProjectApario/reader) begins distributing $APARIO tokens after completing reading &amp; quiz games on **verified OSINT that benefits society and public discourse in a healthy and authentic manner.** 
