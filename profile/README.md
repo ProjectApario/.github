@@ -2,7 +2,7 @@
 
 > **TL;DR** I regret building this piece of software when I did. I should have never built it. I was wrong to build it. I wish I could take it back.
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andreimerlescu)
+![Visitors](https://counthis.app/g/iblxa22xzx6hk6cw)
 
 In 2020 I built the **PhoenixVault** and then went through a _personal transformation_ that essentially _undercut_ myself from my own project so that I could recompnse that happened to me in Romania with what I was doing in America. The pandemic, really introduced those challenges for me as an Ceaușescu orphanage survivor that I overcame and built in service to others regardless of any naysayers or clout-deniers might try to proclaim.
 
